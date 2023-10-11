@@ -60,3 +60,11 @@ body {
   text-align: right;
   color: grey;
 }
+
+.footer {
+  padding-top: 1.5rem;
+  font-size: 1rem;
+  margin-top: 2%;
+  color: white;
+  background-color: rgb(16, 16, 16);
+}
